@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My Hugo Learn Site from Scratch'
+title = 'My Hugo Learn Site from Scratch"
 
 theme = "PaperMod"
+subtitle = "this is test hgo site v2.0"
